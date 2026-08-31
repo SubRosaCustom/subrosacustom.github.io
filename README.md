@@ -4,7 +4,9 @@ You need SRCLauncher to join this server. It installs SRC, keeps it updated, and
 
 ## 1. Download SRC Launcher
 
-Download links... Select a download link for your operating system and install it.
+{% include downloads.md %}
+
+Select a download link for your operating system and install it.
 
 On Linux, if you're not able to launch the AppImage, try changing its permissions.
 ```bash
